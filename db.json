@@ -7,6 +7,14 @@
       "telefono": "12345678901",
       "notas": "Este es un nuevo cliente act",
       "id": 3
+    },
+    {
+      "nombre": "Jared act",
+      "empresa": "Uber",
+      "email": "correo2@correo.com",
+      "telefono": "12345678901",
+      "notas": "Este es un nuevo cliente act",
+      "id": 4
     }
   ]
 }
