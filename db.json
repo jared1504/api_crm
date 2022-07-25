@@ -1,0 +1,12 @@
+{
+  "clientes": [
+    {
+      "nombre": "Jared",
+      "empresa": "Uber",
+      "email": "correo2@correo.com",
+      "telefono": "12345678901",
+      "notas": "Este es un nuevo cliente act",
+      "id": 3
+    }
+  ]
+}
