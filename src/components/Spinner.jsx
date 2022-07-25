@@ -1,4 +1,4 @@
-import "../styles/spinner.css"
+import "../styles/Spinner.css"
 const Spinner = () => {
     return (
         <div className="sk-circle">
